@@ -3,7 +3,7 @@ const PORTFOLIO_DATA = {
     name: "Mohan Seetha",
     role: "Software Developer",
     qualification: "BTech in CSE @ GIET",
-    imageSrc: "./assets/hero.jpg",
+    imageSrc: "/src/assets/hero.jpg",
     imageAlt: "portfolio hero image",
   },
   about: {
@@ -94,8 +94,8 @@ const PORTFOLIO_DATA = {
       href: "https://www.linkedin.com/in/mohansseetha/",
     },
     {
-      label: "Read.cv",
-      href: "./assets/mohan_resume_sde.pdf",
+      label: "Read.CV",
+      href: "/src/assets/mohan_resume_sde.pdf",
     },
     {
       label: "GitHub",
